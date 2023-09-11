@@ -1,6 +1,6 @@
 {
   "name": "arduino-modbus",
-  "version": "0.0.0+20231109121244",
+  "version": "0.0.0",
   "dependencies": {
     "ArduinoRS485": "git@github.com:bimalpaneru/ArduinoRS485.git"
   }
